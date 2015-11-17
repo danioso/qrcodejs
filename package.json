@@ -1,0 +1,9 @@
+{
+  "name": "qrcodejs",
+  "version": "0.0.1",
+  "description": "Cross-browser QRCode generator for javascript",
+  "repository": "https://github.com/davidshimjs/qrcodejs",
+  "author": "Sangmin Shim <ssm0123@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
